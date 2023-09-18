@@ -53,7 +53,7 @@
     .rank-circle-rim {
       stroke: #61dafb;
       fill: none;
-      stroke-width: 10;
+      stroke-width: 20;
       opacity: 0.2;
     }
     .rank-circle {

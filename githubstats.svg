@@ -58,7 +58,7 @@
     }
     .rank-circle {
       stroke: #61dafb;
-      stroke-dasharray: 250;
+      stroke-dasharray: 500;
       fill: none;
       stroke-width: 6;
       stroke-linecap: round;
